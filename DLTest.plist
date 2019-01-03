@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 <key>items</key>
@@ -43,9 +45,9 @@ http://image.uc.cn/s/uae/g/1z/web_prosystem/logo/1466652658666962.png
 <key>kind</key>
 <string>software</string>
 <key>subtitle</key>
-<string>PPÖúÊÖÕý°æ£¬°²×°Íê³ÉºóÇë»Ø±¾Ò³ÃæÒýµ¼ÐÅÈÎ</string>
+<string>PPåŠ©æ‰‹æ­£ç‰ˆï¼Œå®‰è£…å®ŒæˆåŽè¯·å›žæœ¬é¡µé¢å¼•å¯¼ä¿¡ä»»</string>
 <key>title</key>
-<string>PPÖúÊÖÕý°æ£¬°²×°Íê³ÉºóÇë»Ø±¾Ò³ÃæÒýµ¼ÐÅÈÎ</string>
+<string>PPåŠ©æ‰‹æ­£ç‰ˆï¼Œå®‰è£…å®ŒæˆåŽè¯·å›žæœ¬é¡µé¢å¼•å¯¼ä¿¡ä»»</string>
 </dict>
 </dict>
 </array>
